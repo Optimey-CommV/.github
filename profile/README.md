@@ -20,6 +20,6 @@ Meld het niet in een publieke issue. Gebruik **Report a vulnerability** onder he
 
 ## Contact
 
-[optimey.be](https://optimey.be) · [joost@optimey.be](mailto:joost@optimey.be) · [LinkedIn](https://linkedin.optimey.be)
+[joost@optimey.be](mailto:joost@optimey.be) · [LinkedIn](https://linkedin.optimey.be)
 
 <sub>Optimey CommV · ondernemingsnummer 1040.311.241 · Deinze</sub>
